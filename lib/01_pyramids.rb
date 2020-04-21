@@ -68,7 +68,7 @@ end
 
 
 def perform
-    wtf_pyramid
+    full_pyramid
 end
 
 perform

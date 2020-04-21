@@ -3,6 +3,14 @@
 
 **They are some nice exercices to learn ruby**
 
+
+
+
+
+
+
+
+
 #the 1st# is a little exercice to learn the method
 
 
